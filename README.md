@@ -21,12 +21,27 @@
       </thead>
       <tbody>
         <tr>
-          <td><a href="#">Сайт</a></td>
+          <td><a href="http://my-blog.space/ekspert/">Эксперт</a></td>
           <td>JS, SCSS, BEM, Smartgrid</td>
           <td align="center">Вёрстка, Адаптив</td>
         </tr>
         <tr>
-          <td><a href="#">Сайт</a></td>
+          <td><a href="http://my-blog.space/moreshou/">Морешоу</a></td>
+          <td>JS, SCSS, BEM, Smartgrid</td>
+          <td align="center">Вёрстка, Адаптив</td>
+        </tr>
+        <tr>
+          <td><a href="http://my-blog.space/peugeotleasing/">Peugeotleasing</a></td>
+          <td>JS, SCSS, BEM, Smartgrid</td>
+          <td align="center">Вёрстка, Адаптив</td>
+        </tr>
+        <tr>
+          <td><a href="http://my-blog.space/zvezda/">Звезда</a></td>
+          <td>JS, SCSS, BEM, Smartgrid</td>
+          <td align="center">Вёрстка</td>
+        </tr>
+        <tr>
+          <td><a href="http://my-blog.space/trash/">Европласт</a></td>
           <td>JS, SCSS, BEM, Smartgrid</td>
           <td align="center">Вёрстка</td>
         </tr>
